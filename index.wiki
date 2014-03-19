@@ -40,6 +40,8 @@
 		* Operating System
 		* Compiler and 
 
+[[we are]]
+
 [[*许巍*]]
 
 _liuxueyang_
