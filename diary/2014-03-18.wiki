@@ -4,4 +4,59 @@ Maybe someday I will know that I should not learn everything
 because when you know something very well you will learn another
 thing without much effort.
 
-Sometime, I think life is hard.
+I learn some Emacs at noon and I find I prefer to use vim.
+
+
+
+    == second ==
+ === third ===
+==== fourth ====
+===== fifth =====
+
+
+
+* well
+* will
+* should
+* strike
+	* liu
+		and
+		but and or get 
+	* xue
+	* yang
+	 	# first
+	 	# what
+	 	# sedon
+
+
+# 1
+# 2
+# 3
+
+
+
+
+{{{
+  Tyger! Tyger! burning bright
+   In the forests of the night,
+    What immortal hand or eye
+     Could frame thy fearful symmetry?
+  In what distant deeps or skies
+   Burnt the fire of thine eyes?
+    On what wings dare he aspire?
+     What the hand dare sieze the fire?
+}}}
+
+
+{{{class="brush: python" >
+ def hello(world):
+     for x in range(10):
+         print("Hello {0} number {1}".format(world, x))
+}}}
+
+
+    This would be a blockquote in vimwiki. It is not highlighted in vim but
+    could be styled by CSS in HTML. Blockquotes are usually used to quote a
+    long piece of text from another source.
+   
+   

@@ -1,13 +1,58 @@
+{{http://vimwiki.googlecode.com/hg/images/vimwiki_logo.png}}
 = My knowledge base =
     * [[Tasks]] -- things to be done _yesterday_!!!
     * [[Project Gutenberg]] -- good books are power.
     * Scratchpad -- various temporary stuff.
     * My [[code]].
 
+%title Mybooks
 
 
+| First Name | Last Name | Age | City | e-mail           |
+| liu        | xueyang   | 23  |      | zypz457@sina.com |
+|------------|-----------|-----|------|------------------|
+|            |           |     |      |                  |
 
+= Toggleable list of todo items =
+  * [ ] Toggle list item on/off.
+    * [ ] Simple toggling between [ ] and [X].
+    * [ ] All of a list's subitems should be toggled on/off appropriately.
+    * [ ] Toggle child subitems only if the current line is a list item.
+    * [ ] Parent list item should be toggled depending on their child items.
+  * [X] Make numbered list items toggleable too.
+  * [X] Add highlighting to list item boxes.
+  * [X] Add [ ] to the next list item created using o, O or <CR>.
+
+
+= My current task =
+  * [ ] Do stuff 1
+    * [ ] Do substuff 1.1
+    * [ ] Do substuff 1.2
+      * [ ] Do substuff 1.2.1
+      * [ ] Do substuff 1.2.2
+    * [ ] Do substuff 1.3
+  * [ ] Do stuff 2
+  * [ ] Do stuff 3
+ 
+ 
  = My Task =
 		* [[Algorithm]]
 		* Operating System
 		* Compiler and 
+
+[[*许巍*]]
+
+_liuxueyang_
+
+
+~~strikeout text~~
+
+LIU^TM^
+
+sub,,script,,
+
+[[This is a link|Description]]
+
+http://github.com/liuxueyang
+
+https://avatars1.githubusercontent.com/u/3584877?s=460
