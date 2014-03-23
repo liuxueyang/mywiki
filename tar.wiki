@@ -1,0 +1,15 @@
+a b c are three files
+
+
+tar -cvf all.tar a b c
+will create all.tar
+
+tar -tvf all.tar 
+will show the content of all.tar
+
+tar -xvf all.tar
+will extract all.tar
+
+tar -xvjf all.tar.bz2
+This will extract and unbzip2 the file.
+But why '-j' is placed in that place instead of the end of xvf?
