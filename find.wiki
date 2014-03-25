@@ -1,0 +1,8 @@
+find . \( -name "*.sh" -a -newer export1.sh \) -type f -print
+========================================
+find files ended with .sh and newer than export1.sh in 
+the current directory
+
+find . \( -name "*.sh" -a -newer export1.sh \) -type f -exec ls -l {} \;
+========================================
+-exec command can list the files which found
