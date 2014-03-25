@@ -1,0 +1,4 @@
+grep -c -v bash useof_trap.sh shift_command.sh 
+==================================================
+-c lines number
+-v verse for pattern
