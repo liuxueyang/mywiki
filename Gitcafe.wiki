@@ -1,0 +1,5 @@
+when I use gitcafe:
+	* git remote add origin https://gitcafe.com/liuxueyang/repository.git
+	* git pull origin master
+	* git push -u origin master
+	* git push origin master

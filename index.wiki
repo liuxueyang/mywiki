@@ -4,6 +4,7 @@
     * [[Project Gutenberg]] -- good books are power.
     * Scratchpad -- various temporary stuff.
     * My [[code]].
+    * [[Gitcafe]]
 
 %title liuxueyang's wiki
 
@@ -11,6 +12,7 @@
 |---|---|---|---|---|
 |   |   |   |   |   |
 
+<<<<<<< HEAD
 
 = Toggleable list of todo items =
   * [ ] Toggle list item on/off.
@@ -34,12 +36,17 @@
   * [ ] Do stuff 3
  
  
+=======
+>>>>>>> 2da919b4805ffbfa4a3cd86a5e62d4d3c47d0705
  = My Task =
 		* [[Algorithm]]
 		* Operating System
 		* Compiler and 
+		* [[Shell]]
 
 [[we are]]
+
+how^how^
 
 [[*许巍*]]
 
@@ -57,3 +64,4 @@ sub,,script,,
 http://github.com/liuxueyang
 
 https://avatars1.githubusercontent.com/u/3584877?s=460
+

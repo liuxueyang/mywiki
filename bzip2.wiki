@@ -1,0 +1,13 @@
+a.jpg is a image file
+
+bzip2 -v a.jpg
+will create a.jpg.bz2 file and remove a.jpg
+show the % of saved space.
+
+bzip2 -k a.jpg
+will not keep a.jpg
+
+bizp2 -k a.jpg.bz2 
+will extract a.jpg.bz2 file and keep a.jpg.bz2
+
+
