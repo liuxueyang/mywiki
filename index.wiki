@@ -5,13 +5,12 @@
     * Scratchpad -- various temporary stuff.
     * My [[code]].
 
-%title Mybooks
+%title liuxueyang's wiki
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
 
-| First Name | Last Name | Age | City | e-mail           |
-| liu        | xueyang   | 23  |      | zypz457@sina.com |
-|------------|-----------|-----|------|------------------|
-|            |           |     |      |                  |
 
 = Toggleable list of todo items =
   * [ ] Toggle list item on/off.
