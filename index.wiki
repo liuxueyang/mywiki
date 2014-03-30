@@ -13,6 +13,7 @@
 		* Operating System
 		* Compiler and 
 		* [[Shell]]
+		* how to implementation lower_bound by C
 
 [[we are]]
 
