@@ -6,34 +6,14 @@
     * My [[code]].
     * [[Gitcafe]]
 
-%title liuxueyang's wiki
-
  = My Task =
 		* [[Algorithm]]
 		* Operating System
 		* Compiler and 
 		* [[Shell]]
 		* how to implementation lower_bound by C
-		* [[CodeForces]]
-
-[[we are]]
-
-how^how^
-
+一件事情，不管什么时候开始做，都不算晚
+你一直都记着这件事情不是么？
 [[*许巍*]]
-
-_liuxueyang_
-
-
-~~strikeout text~~
-
-LIU^TM^
-
-sub,,script,,
-
-[[This is a link|Description]]
-
 http://github.com/liuxueyang
-
 https://avatars1.githubusercontent.com/u/3584877?s=460
-
