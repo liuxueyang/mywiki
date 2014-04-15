@@ -1,25 +1,18 @@
-{{http://vimwiki.googlecode.com/hg/images/vimwiki_logo.png}}
-= My knowledge base =
-    * [[Tasks]] -- things to be done _yesterday_!!!
-    * [[Project Gutenberg]] -- good books are power.
-    * Scratchpad -- various temporary stuff.
-    * My [[code]].
-    * [[Gitcafe]]
+[[Suicide Is Painless]]
 
- = My Task =
-		* [[Algorithm]]
-		* Operating System
-		* Compiler and 
-		* [[Shell]]
-		* how to implementation lower_bound by C
+[[Gitcafe]]
+
+[[Algorithm]]
+
+[[Shell]]
+
 It will be never too late to do things that you really
 like.
 
 You will  remeber that thing all your life, don't you?
 
 ssh -l lxy 192.168.1.111
+
 start ssh service:  /etc/init.d/sshd restart
+
 connect to host: ssh -l "username" IPaddress
-[[*许巍*]]
-http://github.com/liuxueyang
-https://avatars1.githubusercontent.com/u/3584877?s=460
