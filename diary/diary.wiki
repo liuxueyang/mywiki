@@ -4,6 +4,7 @@ This is my first diary.
 == 2014 ==
 
 === April ===
+  * [[2014-04-15]]
   * [[2014-04-14]]
 
 === March ===

@@ -12,8 +12,11 @@
 		* Compiler and 
 		* [[Shell]]
 		* how to implementation lower_bound by C
-一件事情，不管什么时候开始做，都不算晚
-你一直都记着这件事情不是么？
+It will be never too late to do things that you really
+like.
+
+You will  remeber that thing all your life, don't you?
+
 ssh -l lxy 192.168.1.111
 start ssh service:  /etc/init.d/sshd restart
 connect to host: ssh -l "username" IPaddress

@@ -1,0 +1,2 @@
+Today I learn c++ Primer book and some linux user managent 
+commands.
