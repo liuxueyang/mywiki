@@ -1,19 +1,16 @@
-[[Suicide Is Painless]]
+         = Oh, my wiki =
 
-[[Gitcafe]]
+  - [[Suicide Is Painless]]
 
-[[Algorithm]]
+  - [[Gitcafe]]
 
-[[Shell]]
+  - [[Algorithm]]
 
-It will be never too late to do things that you really
-like.
+  - [[Shell]]
 
-You will  remeber that thing all your life, don't you?
+  * [[Some thought]]
 
-ssh -l lxy 192.168.1.111
-
-start ssh service:  /etc/init.d/sshd restart
-
-connect to host: ssh -l "username" IPaddress
+  * [[how to use ssh]]
+	
+	* [[table]]
 
