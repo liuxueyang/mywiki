@@ -1,0 +1,3 @@
+How to use setw and setfill?
+For example:
+		cout << setfill('0') << setw(2) << h << ":"  << setw(2) << m << ":" << setw(2) << s << endl;
