@@ -1,0 +1,22 @@
+
+
+==1. How to install *.vba plugin:==
+
+	:e plugin_name.vba 
+	:!mkdir -p ~/.vim/bundle/plugin_name 
+	:UseVimball ~/.vim/bundle/plugin_name
+
+
+==2. Colors==
+	pathogen 无法安装配色主题风格，只能将主题插件手工放置于 ~/.vim/colors/；
+	
+
+==3. fold==
+    zo 打开折叠
+    zc 关闭折叠
+    za 打开或关闭折叠
+    aM 关闭所有折叠
+    zR 打开所有折叠
+    
+
+

@@ -1,22 +1,22 @@
          = Oh, my wiki =
 
-  - [[Suicide Is Painless]]
+- [[Suicide Is Painless]]
 
-  - [[Gitcafe]]
+- [[Gitcafe]]
 
-  - [[Algorithm]]
+- [[Algorithm]]
 
-  - [[Shell]]
+- [[Shell]]
 
-  * [[Some thought]]
+* [[Some thought]]
 
-  * [[how to use ssh]]
+* [[how to use ssh]]
 	
-	* [[table]]
-	
-	* [[UNIX Systems Programming]]
-	
-	* [[Vim Learning]]
-	
-	* [[C++ Learning]]
+* [[table]]
+
+* [[UNIX Systems Programming]]
+
+* [[Vim Learning]]
+
+* [[C++ Learning]]
 
