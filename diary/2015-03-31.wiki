@@ -1,0 +1,16 @@
+== I have a question ==
+
+    lst=`ls ../LearningBashShell/examples/`
+    for i in $lst
+    do
+     num=`wc -l ../LearningBashShell/examples/$i`
+     I have a question
+        num=20
+        if [ "$num" -gt "150" ]
+        then
+            echo;
+            echo "$i is more than 150 lines..."
+        fi
+
+    done
+

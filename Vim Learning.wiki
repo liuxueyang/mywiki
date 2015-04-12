@@ -7,6 +7,6 @@
 	:so /usr/share/vim/vim73/syntax/hitest.vim
 	(in short: :so $VIMRUNTIME/syntax/hitest.vim)
 
-3. Regular Expression:
+3. [[Regular Expression]]:
 	/[^\t]\zs\t\+/
 ==============================
