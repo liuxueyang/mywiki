@@ -1,5 +1,6 @@
 http://deflate.medialayer.com/
 
+[[loic.sh]]
 https://github.com/nicolargo/loicinstaller/blob/master/loic.sh
 
 linux系统用netstat命令查看DDOS攻击具体命令用法如下：
