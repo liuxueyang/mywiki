@@ -1,0 +1,59 @@
+http://deflate.medialayer.com/
+
+https://github.com/nicolargo/loicinstaller/blob/master/loic.sh
+
+linux系统用netstat命令查看DDOS攻击具体命令用法如下：
+
+
+netstat -na
+
+显示所有连接到服务器的活跃的网络连接
+
+
+netstat -an | grep :80 | sort
+
+只显示连接到80段口的活跃的网络连接,80是http端口,这对于web服务器非常有用,并且对结果排序.对于你从许多的连接中找出单个发动洪水攻击IP非常有用
+
+
+netstat -n -p|grep SYN_REC | wc -l
+
+这个命令对于在服务器上找出活跃的SYNC_REC非常有用,数量应该很低,最好少于5.
+在dos攻击和邮件炸弹,这个数字可能非常高.然而值通常依赖于系统,所以高的值可能平分给另外的服务器.
+
+
+netstat -n -p | grep SYN_REC | sort -u
+
+列出所有包含的IP地址而不仅仅是计数.
+
+
+netstat -n -p | grep SYN_REC | awk '{print $5}' | awk -F: '{print $1}'
+
+列出所有不同的IP地址节点发送SYN_REC的连接状态
+
+
+netstat -ntu | awk '{print $5}' | cut -d: -f1 | sort | uniq -c | sort -n
+
+使用netstat命令来计算每个IP地址对服务器的连接数量
+
+
+netstat -anp |grep 'tcp|udp' | awk '{print $5}' | cut -d: -f1 | sort | uniq -c | sort -n
+
+列出使用tcp和udp连接到服务器的数目
+
+
+netstat -ntu | grep ESTAB | awk '{print $5}' | cut -d: -f1 | sort | uniq -c | sort -nr
+
+检查ESTABLISHED连接而不是所有连接,这可以每个ip的连接数
+
+
+netstat -plan|grep :80|awk {'print $5'}|cut -d: -f 1|sort|uniq -c|sort -nk 1
+
+显示并且列出连接到80端口IP地址和连接数.80被用来作为HTTP
+如何缓解ddos攻击
+
+当你发现攻击你服务器的IP你可以使用下面的命令来关闭他们的连接：
+
+
+iptables -A INPUT 1 -s $IPADRESS -j DROP/REJECT
+
+请注意你必须用你使用netstat命令找到的IP数替换$IPADRESS
